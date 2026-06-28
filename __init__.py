@@ -15,7 +15,7 @@ import comfy_aimdo.control
 #comfy_aimdo.control.set_log_verbose()
 #comfy_aimdo.control.set_log_vverbose()
 
-comfy_aimdo.control.set_log_vverbose()
+comfy_aimdo.control.set_log_debug()
 
 
 
